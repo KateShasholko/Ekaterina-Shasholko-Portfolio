@@ -130,4 +130,3 @@ or ProductName like 'Gustaf%Knäckebröd'
 or ProductName like '%Hot Pepper Sauce'
 or ProductName like 'Schoggi Schokolade'
 or ProductName like '%Alice';
-
