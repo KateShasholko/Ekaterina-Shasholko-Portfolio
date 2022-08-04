@@ -1,0 +1,23 @@
+[
+{
+"kuzov":{
+"tipkuzova":"sedan",
+"dveri":"4/5",
+"prosvet":"160",
+"bagaxzhnik":"520",
+"shina":"175/65 R14"
+},
+
+"dvigatel":{
+"tip":"benzin",
+"obyom":"1596",
+"toplivo":"AI-95",
+"moschnost":"87(510)
+},
+
+"transmission":{
+"peredniprivod":"yes",
+"tipkpp":"mkp,5"}
+
+}
+]
