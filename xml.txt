@@ -1,0 +1,20 @@
+<?xml version='1.0'
+encoding="UTF-8"?>
+<practise>
+ <kuzov>
+  <tipkuzov>sedan</tipkuzov>
+  <dveri>4&amp; 5</dveri>
+  <prosvet>160</prosvet>
+  <bagazhnik>520</bagazhnik>
+  <shina>175&gt; 65 R14</shina>
+ </kuzov>
+ <dvigatel>
+  <tipdvigatel>1596</tipdvigatel>
+  <toplivo>AI-95</toplivo>
+  <maxmoschnost>87(5100)<maxmoschnost>
+ </dvigatel>
+ <transmission>
+  <peredniprivod>Yes</peredniprivod>
+  <tip_kpp>MKPP,5</tip_kpp>
+ </transmission>
+</practise>
