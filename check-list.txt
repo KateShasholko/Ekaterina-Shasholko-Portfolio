@@ -1,0 +1,32 @@
+Add videochat event in Calendar
+
+1. Check that the button 'Add Videochat' can be chosen.
+2. Check that the user can change from Add videochat to Google Meet clicking on the button with the 'bin' image right to the selected field.
+3. Check that the link to videochat can be added from the thirty-part service.
+4. Check the link can be copied clicking on the button 'copy' right to the selected field.
+5. Check the button 'Save' is clickable:
+	5.1. With the added link.
+	5.2. Without the added link.
+6. Check that the user can return from 'Add videochat' menu to 'Add event' menu:
+	6.1. Clicking by 'Save' button.
+	6.2. Clicking by 'Cancel' button.
+	6.3. Clicking by '<' button at the upper left side of the 'Add videochat' menu.
+7. Check the button 'Cancel' is clickable:
+	7.1. With fulfill fields.
+	7.2. With empty fields.
+8. Check the button 'Create' is clickable:
+	8.1. With fulfill fields.
+	8.2. With empty fields.
+	8.3. With added members.
+	8.4. Without added members.
+9. Check that the event appears in Calendar after add it:
+	9.1. In the created event user's Calendar.
+	9.2. In the added members Calendar.
+	9.3. In Google Calendar.
+10. Check that the added member get an invitation in the emails. 
+11. Check that the invitation link is clickable in the emails.
+12. Check that the date and time is shown correct in the emails.
+13. Check that the added members can be attached to Videochat by the invitation link:
+	13.1. Clicking on the link in the email.
+	13.2. Clicking the link in the created event in Calendar.
+	13.3. Clicking the link in Google Calendar.
